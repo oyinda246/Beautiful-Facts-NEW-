@@ -1,4 +1,5 @@
-<!DOCTYPE html><!DOCTYPE html>
+
+<!DOCTYPE html>
 <html>
 <head>
 <title>Beautiful Life Facts</title>
@@ -75,17 +76,6 @@ function showFact() {
     document.getElementById("fact").innerText = facts[random];
 }
 </script>
-
-</body>
-</html>
-<html>
-<head>
-<title>My First Code</title>
-</head>
-<body>
-
-<h1>Hello World!</h1>
-<p>This is my first HTML code.</p>
 
 </body>
 </html>
